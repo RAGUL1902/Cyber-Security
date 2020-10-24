@@ -1,0 +1,7 @@
+1) Installed Ubuntu and Kali Linux on Virtual Box.
+
+2) Learnt basic commands of Linux.
+
+3) Made Account on Try Hack Me and Mega account.
+
+4) Completed begineer's CTF (overthewire.org) 
