@@ -1,0 +1,22 @@
+1) Completed a 7 hour video course on Networking concepts.
+
+Video Link --> https://www.youtube.com/watch?v=aFzxweQ_iMk&t=23569s
+
+Concepts completed are as follows:
+	Course Introduction 
+	Overview and Benefits of Computer Networks 
+	How Computer Networks Work
+	Network Topologies 
+	Networking Devices 
+	Network Cabling 
+	The OSI Model 
+	Planning a Network 
+	Introduction to TCP/IP 
+	TCP/IP Network Layer Protocols 
+	TCP/IP Transport Layer Protocols 
+	Common TCP/IP Application Layer Protocols
+	Computer Networking Ports
+	IP Addressing
+	Introduction to Subnetting 
+	Designing a Network 
+	Follow-Along Case Study Network Design Scenarios
